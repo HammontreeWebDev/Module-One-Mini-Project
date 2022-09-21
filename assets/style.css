@@ -1,0 +1,19 @@
+header {
+    background-color: darkgreen;
+    height: 60px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 
+    'Lucida Sans', Arial, sans-serif;
+    color: white;
+    text-align: right;
+
+}
+
+header nav li {
+    display: inline;
+    list-style-type: none;
+    padding: 40px;
+}
+
+nav {
+    padding: 5px;
+}
